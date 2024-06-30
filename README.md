@@ -1,0 +1,1 @@
+# Scripts-para-Automatizar-AutoAdminLogon-en-Windows
